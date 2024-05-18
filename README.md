@@ -1,6 +1,6 @@
 # btb
 
-A blue text bot.  1 python file.
+a blue text bot.  1 python file.  this is a super early work in progress!
 
 ![btb](https://github.com/bwasti/btb/assets/4842908/3bcf624e-697e-4e8f-bbf7-2ab58256646e)
 
