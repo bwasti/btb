@@ -3,3 +3,4 @@ pytypedstream
 flask
 flask-socketio
 eventlet
+ollama
