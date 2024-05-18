@@ -12,6 +12,15 @@ the code is built on ollama and does two things:
 
 ## Usage
 
+install Ollama https://ollama.com
+
 ```
+ollama pull llama3
 pip install -r requirements.txt
+```
+
+then run the service
+
+```
+python service.py
 ```
